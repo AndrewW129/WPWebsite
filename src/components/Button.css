@@ -2,6 +2,10 @@
     --primary: #fff;
 }
 
+.btn-container {
+    margin-right: 40px;
+}
+
 .btn {
     padding: 8px 20px;
     border-radius: 2px;
